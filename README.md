@@ -6,7 +6,7 @@
 ### Front-End Developer
 
 I'm a Front-End Developer, self-taught and passionate about programming. <br>
-Independent developer
+Independent developer with 24 years
 
 ## 🛠 Technologies:
 
