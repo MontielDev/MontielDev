@@ -21,7 +21,7 @@ Independent developer with 24 years old
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 <br>
-![SQL](https://img.shields.io/badge/sql-4479A1)
+![SQL](https://img.shields.io/badge/SQL-4479A1)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 <br>
 ![MQL5](https://img.shields.io/badge/MQL5-%230175C2.svg?style=plastic&logo=mql5&logoColor=white)
