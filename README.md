@@ -7,6 +7,12 @@
 
 I'm a Front-End Developer, self-taught and passionate about programming. <br>
 Independent developer with 24 years old
+<br>
+### Worked Technologies Versions
+React 17.0.2 - 18.0.0 <br>
+Node 18.17.1 - 20.10.0 <br>
+MySQL 5.7 - 8.0.35 <br>
+Javascript ES5 - ES6
 
 ## Personal Web Site:
 [![WebSite](https://img.shields.io/badge/My-Web_Site-%238DD6F9.svg?style=for-the-badge&)](https://656ce5cc5dabd341bc7f384a--joyful-torrone-a324cc.netlify.app/)
