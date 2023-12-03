@@ -6,7 +6,7 @@
 ### Front-End Developer
 
 I'm a Front-End Developer, self-taught and passionate about programming and i have 24 years old <br>
-Freelance developer
+I have Two years of experience as a <b>freelance developer<b/>  creating elegant websites for multiple businesses, brands and personal sites.
 <br>
 
 ## Personal Web Site:
