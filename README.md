@@ -11,6 +11,7 @@ Independent developer with 24 years old
 
 ## Personal Web Site:
 [![WebSite](https://img.shields.io/badge/My-Web_Site-%238DD6F9.svg?style=for-the-badge&)](https://656ce5cc5dabd341bc7f384a--joyful-torrone-a324cc.netlify.app/)
+<br>
 
 ### Worked Technologies Versions
 React 17.0.2 - 18.0.0
