@@ -5,8 +5,8 @@
 
 ### Front-End Developer
 
-I'm a Front-End Developer, self-taught and passionate about programming. <br>
-Independent developer with 24 years old
+I'm a Front-End Developer, self-taught and passionate about programming and i have 24 years old <br>
+Freelancer developer
 <br>
 
 ## Personal Web Site:
