@@ -8,7 +8,7 @@
 I'm a Front-End Developer, self-taught and passionate about programming. <br>
 Independent developer with 24 years old
 
-Personal Web Site: ![WebSite](https://img.shields.io/badge/Web--Site-%1CB698.svg?style=plastic&logo=Network&logoColor=whitehttps://656ce5cc5dabd341bc7f384a--joyful-torrone-a324cc.netlify.app/)
+Personal Web Site: ![https://656ce5cc5dabd341bc7f384a--joyful-torrone-a324cc.netlify.app/](https://img.shields.io/badge/Personal-Web--Site-%1CB698.svg?style=plastic&logo=Network&logoColor=white)
 
 ## 🛠 Technologies:
 
