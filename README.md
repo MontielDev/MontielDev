@@ -59,4 +59,4 @@ Javascript ES5 - ES6
 
 [![Instagram](https://img.shields.io/badge/Instagram-@cmontiel.c-E4405F?style=plastic&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/cmontiel.c/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo_Montiel-0077B5?style=plastic&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/montieldev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo_Montiel-0077B5?style=plastic&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jeison-camilo-montiel-collazos-660729166/)
